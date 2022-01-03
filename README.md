@@ -1,2 +1,2 @@
 # ETH_Unique_Addresses
-Study of the growth in the # of ETH Unique Addresses
+Study of the growth in the Number of Unique ETH Addresses. Read data downloaded from Etherscan and Coindesk into Jupyter Notebook, clean/format and chart. Growth rates of Average Monthly Unique ETH Addresses continue to fall, which is typical as a blockchain network matures. Average Unique Addresses are still growing over 40% on a rolling 1y basis, this is reminiscent of the BTC network in 2017-2018. As the network matures it is my theory that 1y Percent Change in the Avg Monthly Number of Unique ETH Addresses will be a more effective leading indicator of ETH Price, similar to BTC post 2019. 
